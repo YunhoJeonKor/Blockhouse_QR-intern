@@ -21,4 +21,4 @@ Remarks:
 
 The original paper also discusses cross-asset OFI as an extension. However, the dataset I was given only includes order book data for Apple stock. Therefore, implementing cross-asset OFI was not feasible in this case. Despite that, I closely followed the feature construction methodology as outlined in the paper to ensure consistency and validity.
 <img width="373" alt="Screenshot 2025-05-01 at 8 07 37 PM" src="https://github.com/user-attachments/assets/cc9eb8b7-76ca-4d69-93da-d46055682182" />
-<img width="378" alt="Screenshot 2025-05-01 at 8 07 46 PM" src="https://github.com/user-attachments/assets/7cc08dc2-98d5-47cd-a115-1fe9b2c0ed7a" />
+Moreover, as shown in the paper through the included screenshots, the next step is to calculate OFI-based beta values and test their predictive power using techniques such as Lasso regression and other regularization methods. This lays the groundwork for further empirical analysis and model building.
