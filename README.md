@@ -8,7 +8,7 @@ All computations are performed with a time interval of 10 seconds, and the resul
 
 ⸻
 
-✅ Constructed Features
+ Constructed Features
 
 1. Best-Level OFI
 	•	This feature captures the order flow imbalance at the best bid and ask levels (level 0).
