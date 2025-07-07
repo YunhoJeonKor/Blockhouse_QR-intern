@@ -1,6 +1,3 @@
-Blockhouse_QR-intern
-
-Blockhouse Quant Research Intern Submission
 This is Yunho Jeon (yj3258@nyu.edu), currently studying Mathematics in Finance at NYU.
 
 I have constructed the required Order Flow Imbalance (OFI) features based on the given dataset.
